@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧹 Cyber Hygiene Checklist Tool (v1.0)
 
 A Python-based tool that performs basic **cyber hygiene and security checks** on your local system.  
@@ -43,3 +44,6 @@ pip install psutil
 python main.py --output reports/report.json
 
 |The generated JSON report will be saved inside the /reports folder
+=======
+# cyber-hygiene-checklist-tool
+>>>>>>> 14c89f38f743e70df5f5e367e267cdc5942dbee6
